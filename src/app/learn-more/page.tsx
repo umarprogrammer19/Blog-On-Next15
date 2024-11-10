@@ -1,5 +1,5 @@
 import Image from "next/image";
-import img from "../public/nextjs.jpg";
+import img from "../public/nextjs.png";
 
 export default function LearnMore() {
     return (

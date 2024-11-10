@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import img from "../../public/nextjs.jpg";
+import img from "../../public/nextjs.png";
 
 export default function Hero() {
     return (
